@@ -1,0 +1,74 @@
+body{
+	background-color: white;
+
+}
+.grid-container{
+	display: grid;
+	grid-template-columns: auto auto auto;
+	border-radius: 12px;
+	margin-top: 100px;
+	margin-left: 150px;
+	margin-right: 150px;
+	margin-bottom: 100px;
+	height: 500px;
+}
+.grid-item1{
+	background-color: hsl(31, 77%, 52%);
+	border-top-left-radius: 10px;
+	border-bottom-left-radius: 10px;
+}
+.grid-item2{
+	background-color: hsl(184, 100%, 22%);
+}
+.grid-item3{
+	background-color: hsl(179, 100%, 13%);
+	border-top-right-radius: 10px;
+	border-bottom-right-radius: 10px;
+}
+.icon1{
+	opacity:50%;
+}
+h1{
+	font-family: 'Big Shoulders Display', sans-serif;
+	color:hsl(0, 0%, 95%);
+	margin-left: 50px;
+}
+p{
+	margin-top: 20px;
+	margin-left: 50px;
+	font-family: 'Lexend Deca', sans-serif;
+	color: white;
+	opacity:60%;
+	line-height: 25px;
+
+}
+button{
+	margin-left: 50px;
+	border-radius: 20px;
+	border: 1px solid hsl(0, 0%, 95%);
+	font-size: 15px;
+	background-color: none;
+	cursor:pointer;
+	background-color: transparent;
+	height: 50px;
+	width:200px;
+	color:hsl(0, 0%, 95%);
+	transition: 0.2s ease-in;
+	margin-top:70px;
+}
+.button1:hover {
+	background-color: hsl(0, 0%, 95%);
+	color:hsl(31, 77%, 52%);
+}
+.button2:hover {
+	background-color: hsl(0, 0%, 95%);
+	color:hsl(184, 100%, 22%);
+}
+.button3:hover{
+	background-color: hsl(0, 0%, 95%);
+	color:hsl(179, 100%, 13%);
+}
+img{
+	margin-top:50px;
+	margin-left: 50px;
+}
