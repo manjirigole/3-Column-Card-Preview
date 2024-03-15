@@ -52,6 +52,6 @@ The area that i want to focus on in future projects is learning bootstrap framew
 
 
 ## Author
-- Frontend Mentor - [@yourusername]((https://www.frontendmentor.io/profile/manjirigole))
+- Frontend Mentor - [@(https://www.frontendmentor.io/profile/manjirigole)]
 
 
