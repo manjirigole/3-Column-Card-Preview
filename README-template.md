@@ -48,7 +48,7 @@ The area that i want to focus on in future projects is learning bootstrap framew
 
 ### Useful resources
 
-- [Example resource 1]([https://www.example.com](https://www.w3schools.com/css/css3_flexbox.asp)) - This helped me in learning flexboxes. I really liked this pattern and explaination and will use it going forward.
+- https://www.w3schools.com/css/css3_flexbox.asp - This helped me in learning flexboxes. I really liked this pattern and explaination and will use it going forward.
 
 
 ## Author
