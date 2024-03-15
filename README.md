@@ -31,6 +31,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: https://github.com/manjirigole/3-Column-Card-Preview/
+- Live URL: https://manjirigole.github.io/3-Column-Card-Preview/
 
 ## My process
 
