@@ -30,7 +30,7 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here]((https://github.com/manjirigole/3-Column-Card-Preview/))
+- Solution URL: https://github.com/manjirigole/3-Column-Card-Preview/
 
 ## My process
 
@@ -52,6 +52,6 @@ The area that i want to focus on in future projects is learning bootstrap framew
 
 
 ## Author
-- Frontend Mentor - [@(https://www.frontendmentor.io/profile/manjirigole)]
+- Frontend Mentor - https://www.frontendmentor.io/profile/manjirigole
 
 
